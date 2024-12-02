@@ -11,7 +11,7 @@
 
 🌱 I’m currently learning Machine Learning
 
-📬 Contact me at Gmail [priyankads89@gmail.com]
+📬 Contact me at [Gmail](priyankads89@gmail.com)
 
 🔗 Connect with me on https://www.linkedin.com/in/priyanka-das-1505/ 
 
