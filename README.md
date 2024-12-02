@@ -1,16 +1,20 @@
-## Hi there 👋
+📖 About Me
 
-<!--
-**PriyankaDas-lab/PriyankaDas-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I’m Priyanka Das
+👨‍💻 Passionate about data, learning and how we can make an impact.
+💼 Full-time Senior Data Engineer at Cognizant Canada Inc.
+🎓 Bachelor's Degree in Technology with Specialization in Computer Science & Engineering
+🌱 I’m currently learning Machine Learning
+📬 Contact me at Gmail [priyankads89@gmail.com]
+🔗 Connect with me on https://www.linkedin.com/in/priyanka-das-1505/ 
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥️ Monitoring/Orchestration: Apache Airflow
+🛢 Database: Snowflake Data Warehouse, Redshift etc.
+🔨 ETL/ELT Tools: Informatica, AWS Glue & EMR
+☁️ Cloud Computing: AWS
+🔧 Language: SQL, PL/SQL, Python
+📊 Data Viz: Power BI, MS Excel, AWS QuickSight
+⚙️ Version Control: GitHub
+📝 Project Management: Jira & Confluence
