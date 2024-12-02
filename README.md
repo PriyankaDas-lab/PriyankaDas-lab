@@ -5,7 +5,7 @@
 
 👨‍💻 Passionate about data, learning and how we can make an impact.
 
-💼 Full-time Senior Data Engineer at Cognizant Canada Inc.
+💼 Full-time Senior Data Engineer at [Cognizant Canada Inc.](https://www.linkedin.com/company/cognizant/posts/?feedView=all)
 
 🎓 Bachelor's Degree in Technology with Specialization in Computer Science & Engineering
 
